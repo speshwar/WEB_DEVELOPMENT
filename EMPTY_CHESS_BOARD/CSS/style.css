@@ -1,0 +1,50 @@
+body {
+    background-image: url("1567674.jpg");
+    background-position: "fit";
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: whitesmoke;
+}
+
+#slide {
+    font-family: Arial, Helvetica, sans-serif;
+    color: thistle;
+}
+
+h2 {
+    font-weight: bolder;
+    color: rgba(255, 0, 0, 0.548);
+}
+
+#inst {
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(245, 58, 24);
+}
+
+iframe {
+    margin: 100px 100px 100px 200px;
+    border: 10px gray solid;
+    width: 850px;
+    height: 720px;
+}
+
+a {
+    position: "fit";
+}
+
+button {
+    padding: 5px;
+    color: rgb(211, 144, 21);
+    background: rgb(10, 190, 10);
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 0px 700px 0px 700px;
+    text-decoration: none;
+}
